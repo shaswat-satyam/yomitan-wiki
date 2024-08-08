@@ -43,7 +43,7 @@ Yomitan turns your web browser into a tool for building language literacy by hel
     ---
 
     Built-in native pronunciation audio with the ability to add your own custom audio sources.
-
+    ![Audio Sources](assets/ss/audio.webp){ class=on-glb }
     ---
 
     [:octicons-arrow-right-24: More information](./advanced/index.md#audio)
@@ -78,6 +78,7 @@ Yomitan turns your web browser into a tool for building language literacy by hel
     ---
 
     Custom search page for easily executing custom search queries.
+    ![Custom Search](assets/ss/search.webp){ class=on-glb }
 
 
 -   :book:{ .lg .middle } &nbsp;
